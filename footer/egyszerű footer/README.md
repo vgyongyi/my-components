@@ -1,0 +1,1 @@
+Egyszerű footer kódja.
