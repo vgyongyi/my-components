@@ -1,0 +1,1 @@
+számolás: footer calcs
